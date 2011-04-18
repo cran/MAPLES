@@ -1,0 +1,2 @@
+export(epdata,splitter,ageprofile,plotap,tabx,tabm,listvar,mkdate)
+importFrom(mgcv,gam)
